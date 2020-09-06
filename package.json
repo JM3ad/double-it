@@ -1,0 +1,19 @@
+{
+  "name": "double-it",
+  "version": "0.0.1",
+  "description": "Provides a function to double a number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JM3ad/double-it.git"
+  },
+  "author": "Jack Mead",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JM3ad/double-it/issues"
+  },
+  "homepage": "https://github.com/JM3ad/double-it#readme"
+}
