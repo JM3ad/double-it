@@ -1,5 +1,5 @@
 {
-  "name": "double-it",
+  "name": "@jacmea/double-it",
   "version": "0.0.1",
   "description": "Provides a function to double a number",
   "main": "index.js",
